@@ -1,0 +1,3 @@
+# shooting_game
+
+ChatGPTで作った隕石を宇宙船が撃ち落とすシューティングゲーム
